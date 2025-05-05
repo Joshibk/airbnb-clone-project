@@ -87,3 +87,15 @@ POST /reviews/ - Create a new review
 GET /reviews/{review_id}/ - Retrieve a specific review
 PUT /reviews/{review_id}/ - Update a specific review
 DELETE /reviews/{review_id}/ - Delete a specific review
+
+API Security
+
+User Authentication
+Endpoints: /users/, /users/{user_id}/
+Features: Register new users, authenticate, and manage user profiles.
+Booking System
+Endpoints: /bookings/, /bookings/{booking_id}/
+Features: Make, update, and manage bookings, including check-in and check-out details.
+Payment Processing
+Endpoints: /payments/
+Features: Handle payment transactions related to bookings.
