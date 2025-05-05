@@ -99,3 +99,8 @@ Features: Make, update, and manage bookings, including check-in and check-out de
 Payment Processing
 Endpoints: /payments/
 Features: Handle payment transactions related to bookings.
+
+CI/CD Pipeline
+
+CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+Tools - Docker: Containerization tool for consistent development and deployment environments.
